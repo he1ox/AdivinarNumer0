@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AdivinarNumero.MainPage"
+             BackgroundColor="#1D3557">
+
+    <StackLayout>
+        <StackLayout BackgroundColor="#D62828" Padding="10">
+            <Label Text="¡Adivinanza Numerica!" 
+                   HorizontalTextAlignment="Center" 
+                   TextColor="White" 
+                   FontSize="32" 
+                   FontAttributes="BOLD"
+                   Margin="0,10"/>
+            
+            <Label Text="MINIJUEGO"  
+                   HorizontalTextAlignment="Center" 
+                   TextColor="White" 
+                   FontSize="32" 
+                   FontAttributes="BOLD"
+                   Margin="0,0,0,10"/>
+            
+        </StackLayout>
+
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Debes de pensar en un numero cualquiera" 
+                   HorizontalTextAlignment="Center"
+                   FontSize="24" 
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   Margin="20,20,20,20"/>
+
+            
+            <Label Text="1. Multiplica tu numero por 2 "
+                   FontSize="18"
+                   TextColor="White"
+                   Margin="25,0,0,10"/>
+
+            <Label Text="2. Sumale 8 al resultado"
+                   FontSize="18"
+                   TextColor="White"
+                   Margin="25,0,0,10"/>
+
+            <Label Text="3. Multiplica el resultado por 5"
+                   FontSize="18"
+                   TextColor="White"
+                   Margin="25,0,0,0"/>
+
+            <Label Text="¿Cual es el resultado?"
+                   FontSize="24"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   Margin="0,20,0,10"
+                   HorizontalTextAlignment="Center"/>
+
+            <Entry Placeholder="Resultado" 
+                   HorizontalOptions="Center" 
+                   WidthRequest="150"
+                   HorizontalTextAlignment="Center"
+                   Keyboard="Numeric"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   x:Name="resultado"/>
+            
+            
+            <Button Text="INGRESAR" 
+                    Padding="10" 
+                    FontSize="20"
+                    TextColor="White"
+                    CornerRadius="12" 
+                    HorizontalOptions="Center"
+                    WidthRequest="200"
+                    FontAttributes="Bold"
+                    Margin="0,20,0,0"
+                    Background="red"
+                    Clicked="btnCalculo_Clicked"    
+                    x:Name="btnCalculo"/>
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

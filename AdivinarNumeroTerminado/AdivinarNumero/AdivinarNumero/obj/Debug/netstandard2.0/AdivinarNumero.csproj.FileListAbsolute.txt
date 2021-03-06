@@ -1,0 +1,14 @@
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\netstandard2.0\AdivinarNumero.deps.json
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\netstandard2.0\AdivinarNumero.dll
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\netstandard2.0\ref\AdivinarNumero.dll
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\bin\Debug\netstandard2.0\AdivinarNumero.pdb
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\AdivinarNumero.csprojAssemblyReference.cache
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\AdivinarNumero.AssemblyInfoInputs.cache
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\AdivinarNumero.AssemblyInfo.cs
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\AdivinarNumero.csproj.CoreCompileInputs.cache
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\XamlC.stamp
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\AdivinarNumero.dll
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\ref\AdivinarNumero.dll
+E:\XAMARIN - CURSO\AdivinarNumero\AdivinarNumero\AdivinarNumero\obj\Debug\netstandard2.0\AdivinarNumero.pdb
